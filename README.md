@@ -19,9 +19,11 @@ Databricks
 
 Introdução
 O que é Big Data?
+
 Big Data se refere a conjuntos de dados tão grandes e complexos que os métodos tradicionais de processamento de dados não são adequados. Essas enormes quantidades de dados vêm de várias fontes, como mídias sociais, sensores IoT, transações financeiras, registros médicos, entre outros. Para lidar com Big Data, são necessárias tecnologias e arquiteturas especializadas para armazenamento, processamento e análise eficientes.
 
 Arquitetura 🏛️
+
 A Arquitetura Medalhão (Medallion Architecture) é um padrão de design de dados usado para organizar logicamente os dados em um lakehouse, com o objetivo de melhorar, de forma incremental e progressiva, a estrutura e a qualidade dos dados, à medida que estes fluem através de cada camada da arquitetura (Bronze ⇒ Silver ⇒ Gold).
 
 Medallion Architecture Fonte: https://www.advancinganalytics.co.uk/blog/medallion-architecture
@@ -61,8 +63,13 @@ Grupo
 O Grupo 2 é composto por:
 
 Caio Brainer
+
 Carlos Caldeira
+
 Sormanny Junior
+
 Thaísa Elvas
+
 Thascilla Rosa
+
 Thatiana Napolitano
