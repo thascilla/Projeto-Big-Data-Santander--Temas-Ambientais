@@ -12,9 +12,11 @@ Dados 📈
 Foram utilizados os dados oficiais de Cadastro Ambiental Rural no site Gov.br
 
 Pré-requisitos
+
 Python3
+
 PostgreSQL version
-Databricks
+
 Databricks
 
 Introdução
